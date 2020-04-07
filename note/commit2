@@ -1,0 +1,9 @@
+sudo npm install -g vue-cli
+vue init webpack-simple vue-spa
+Project name (vue-spa) 
+
+ To get started:
+     cd vue-spa
+     npm install
+     npm run dev
+
